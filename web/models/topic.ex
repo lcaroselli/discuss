@@ -30,4 +30,4 @@ end
 # Changeset - DESCRIBES HOW WE GET FROM WHERE WE ARE TO WHERE WE NEED TO BE and applies validations
 # adds errors to changeset
 
-# Final changeset we get is what represents how we're trying to update the database
+# Final changeset we get is what represents how we're trying to update the databasec
