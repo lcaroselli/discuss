@@ -1,3 +1,7 @@
+# Purpose
+
+Elixir/Phoenix application to create topics for users to discuss with each other. Users can also delete and edit their own topics created.
+
 # Discuss
 
 To start your Phoenix app:
